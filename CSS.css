@@ -33,9 +33,9 @@ html{
 }
 .logo{
    width: 44px;
-   height: 32px;
-   margin-right: 50px;
-   background-image: url(https://tse1.mm.bing.net/th?id=OIP.0cv1BFtjSefgz7U60x9f1gHaE8&pid=Api&P=0&w=234&h=157);
+   height: 44px;
+   margin-right: 30px;
+   background-image: url(https://www.clipartmax.com/png/full/201-2012057_software-developer-computer-servers-programmer-web-developer-png.png);
    background-size: contain;
 
 }
@@ -73,7 +73,7 @@ html{
     padding: 10px 0;
 }
 .sticky .logo{
-    background-image:url(https://tse1.mm.bing.net/th?id=OIP.0cv1BFtjSefgz7U60x9f1gHaE8&pid=Api&P=0&w=234&h=157) ;
+    background-image:url(https://www.clipartmax.com/png/full/201-2012057_software-developer-computer-servers-programmer-web-developer-png.png) ;
 }
 .sticky .navbar-menu a{
     color: black;
