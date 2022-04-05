@@ -87,7 +87,8 @@ html{
     /* background: url(https://www.infiniticreation.co.uk/wp-content/uploads/2014/03/home_sec.jpg) no-repeat center; */
     /* background: url(https://images.unsplash.com/photo-1473773508845-188df298d2d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80) no-repeat center; */
     /* background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center; */
-    background: url(https://images.pexels.com/photos/56759/pexels-photo-56759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center;
+/*     background: url(https://images.pexels.com/photos/56759/pexels-photo-56759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center; */
+       background: url(https://images.pexels.com/photos/1229865/pexels-photo-1229865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
