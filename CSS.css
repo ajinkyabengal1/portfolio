@@ -211,18 +211,19 @@ section{
     flex-wrap: wrap;
 }
 .about-pic{
-    width: 150px;
-    height: 150px;
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
     margin-right: 100px;
 }
 .about-text{
     flex: 1;
 }
-.about-text h3{
+.about-text h2{
     margin: 10px 0;
     color: #444;
-    font: 16px;
+    font-size: 36px;
+    background-color: #aed9daaf;
 }
 .about-text h3 span:nth-child(1):after,
 .about-text h3 span:nth-child(2):after{
@@ -359,6 +360,7 @@ section.dark .section-title::after{
     margin: 10px 15px;
     padding: 30px;
     position: relative;
+    box-shadow: 2px 1px 7px 0px;
 }
 .block::before{
     content: "";
